@@ -88,7 +88,7 @@ Possible meanings:
 try {
     smurf();
 } catch (GargamelException e) {
-    runAway();
+    smurfAway();
 }
 ```
 
@@ -109,9 +109,9 @@ import PapaSmurf.*;
 import Village;
 
 smurf main() {
-    smurf mood = happy;
+    smurf mood = smurfy;
 
-    if (mood == happy) {
+    if (mood == smurfy) {
         smurf dance();
     } else {
         smurf sulk();
